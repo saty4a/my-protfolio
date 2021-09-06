@@ -14,6 +14,6 @@ It is a responsive developer portfolio website and app using flutter. I also add
 
 ### Responsive and Animated Portfolio Website & App Final UI
 
-![Preview](/gif.gif)
+<!-- ![Preview](/gif.gif)
 
-![App UI](/ui.png)
+![App UI](/ui.png) -->
