@@ -20,33 +20,54 @@ class HighLightsInfo extends StatelessWidget {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
+//                     HeighLight(
+//                       counter: AnimatedCounter(
+//                         value: 119,
+//                         text: "K+",
+//                       ),
+//                       label: "Subscribers",
+//                     ),
                     HeighLight(
                       counter: AnimatedCounter(
-                        value: 119,
-                        text: "K+",
-                      ),
-                      label: "Subscribers",
-                    ),
-                    HeighLight(
-                      counter: AnimatedCounter(
-                        value: 40,
+                        value: 7,
                         text: "+",
                       ),
-                      label: "Videos",
+                      label: "GitHub Projects",
                     ),
-                  ],
+//                     HeighLight(
+//                       counter: AnimatedCounter(
+//                         value: 40,
+//                         text: "+",
+//                       ),
+//                       label: "Videos",
+//                     ),
+//                   ],
+//                 ),
+                    HeighLight(
+                  counter: AnimatedCounter(
+                    value: 700,
+                    text: "+",
+                  ),
+                  label: "Followers",
                 ),
                 const SizedBox(height: defaultPadding),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
+//                     HeighLight(
+//                       counter: AnimatedCounter(
+//                         value: 30,
+//                         text: "+",
+//                       ),
+//                       label: "GitHub Projects",
+//                     ),
                     HeighLight(
-                      counter: AnimatedCounter(
-                        value: 30,
-                        text: "+",
-                      ),
-                      label: "GitHub Projects",
-                    ),
+                  counter: AnimatedCounter(
+                    value: 52,
+                    text: "+",
+                  ),
+                  label: "Photos",
+                ),
                     HeighLight(
                       counter: AnimatedCounter(
                         value: 13,
