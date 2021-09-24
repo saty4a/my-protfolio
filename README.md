@@ -12,7 +12,7 @@
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
-It is a responsive developer portfolio website and app using flutter. I also add animation which works perfectly on mobile and the web. 
+It is a responsive portfolio website and app using flutter. I also add animation which works perfectly on mobile and the web. 
 
 ### Responsive and Animated Portfolio Website & App Final UI
 
